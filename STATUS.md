@@ -1,6 +1,8 @@
-This file shows the progress of project done by each member:-
+Daywise progress of each collaborator:
 
-Deep Patel
+Day #1
+
+Deep Patel:
 
 Kahaan Patel
 
