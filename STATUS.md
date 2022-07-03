@@ -1,4 +1,4 @@
-Daywise progress of each collaborator:
+Project Progress:
 
 Day #1: (01/07/2022): 
 
