@@ -14,7 +14,7 @@ Refer this video: https://www.youtube.com/watch?v=AXBhrLongC8
 
 Day #3: (13/07/2022):
 
-#1 Completed with the project and attempted a different approach too but not sure about its effectivity. There are separate files for each approaches
+#1 Completed the project and attempted a different approach too but not sure about its effectivity. There are separate files for each approaches
 
 Filenames:
 
