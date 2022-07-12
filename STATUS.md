@@ -20,6 +20,10 @@ Filenames:
 
 Approach 1: Original Approach
 
+This is the original approach as showed in the reference video of making the prediction model.
+
 Approach 2: Tried with 'Close Price' values instead of converting it to 'Returns' 
 
-PS: The dataset here has been replaced with Sensex (^BSESN) which is Indian stock market index
+Second approach to the model in which predicting 'returns' is replaced with predicting actual 'close price' and the calculation of 'returns' is eliminated.
+
+PS: The dataset here has been replaced with Sensex (^BSESN) which is Indian stock market index for both the approaches
