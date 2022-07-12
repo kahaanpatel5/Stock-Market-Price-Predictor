@@ -21,3 +21,5 @@ Filenames:
 Approach 1: Original Approach
 
 Approach 2: Tried with 'Close Price' values instead of converting it to 'Returns' 
+
+PS: The dataset here has been replaced with Sensex (^BSESN) which is Indian stock market index
